@@ -4,6 +4,6 @@ Here I upload the files that I shared with the students of CSE-ShirazUni as thei
 
 This class was tought under supervision of "Dr.Hooman Tahayori"  @Shiraz University 
 
-More About Dr.Tahayroi : http://shirazu.ac.ir/faculty/home/h_tahayori/en
+More About Dr.Tahayori : http://shirazu.ac.ir/faculty/home/h_tahayori/en
 
 Spring 2019
